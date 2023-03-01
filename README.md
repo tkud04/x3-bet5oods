@@ -1,2 +1,2 @@
-# x3-bet5oods
-Sender for OB friend
+# gmail-sender-x2
+Gmail sender for X2
